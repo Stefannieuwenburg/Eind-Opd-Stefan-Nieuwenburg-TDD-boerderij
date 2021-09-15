@@ -1,0 +1,23 @@
+{
+  "name": "Eind-Opd-Stefan-Nieuwenburg-TDD-boerderij",
+  "version": "1.0.0",
+  "description": "stap 1]  npm init -y /in dir map",
+  "main": "farm.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stefannieuwenburg/Eind-Opd-Stefan-Nieuwenburg-TDD-boerderij.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Stefannieuwenburg/Eind-Opd-Stefan-Nieuwenburg-TDD-boerderij/issues"
+  },
+  "homepage": "https://github.com/Stefannieuwenburg/Eind-Opd-Stefan-Nieuwenburg-TDD-boerderij#readme",
+  "dependencies": {
+    "jest": "^27.2.0"
+  }
+}
